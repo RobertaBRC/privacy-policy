@@ -1,4 +1,14 @@
-## Welcome to GitHub Pages
+## Dataminds Consulting Pty - Privacy Policy
+
+04 February 2021
+
+### Introduction
+
+This policy contains important information on how Dataminds Consulting Pty collect, use and disclose personal information. In this context, personal information relates to all information that is not generally available and from which specific individuals can be identified.
+
+If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy. We are committed to ensuring that at all times your personal information remains private and protected.
+
+We may update this policy, so please review our website regularly.
 
 You can use the [editor on GitHub](https://github.com/RobertaBRC/privacy-policy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
