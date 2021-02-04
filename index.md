@@ -6,7 +6,8 @@
 
 ### Introduction
 
-This policy contains important information on how Dataminds Consulting Pty collect, use and disclose personal information. In this context, personal information relates to all information that is not generally available and from which specific individuals can be identified.
+This policy contains important information on how Dataminds Consulting Pty collect, use and disclose personal information. 
+Personal information relates to all information that is not generally available and from which specific individuals can be identified.
 
 If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy. We are committed to ensuring that at all times your personal information remains private and protected.
 
