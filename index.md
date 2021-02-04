@@ -2,6 +2,7 @@
 
 04 February 2021
 
+
 ### Introduction
 
 This policy contains important information on how Dataminds Consulting Pty collect, use and disclose personal information. In this context, personal information relates to all information that is not generally available and from which specific individuals can be identified.
@@ -10,38 +11,44 @@ If you choose to use our Service, then you agree to the collection and use of in
 
 We may update this policy, so please review our website regularly.
 
-You can use the [editor on GitHub](https://github.com/RobertaBRC/privacy-policy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Information Collection and Use
 
-### Markdown
+For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to your name and postal address. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Reasons why we collect personal information
+- Compliance with our legal obligations and assist government and law enforcement agencies or regulators
+- Design and administration of our products and services
+- Identify clusters based on behaviour, enabling us to improve the services we provide you with
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### How we collect personal information
 
-1. Numbered
-2. List
+Electronically when you use our website: we want to inform you that whenever you visit our Service, we collect information that your browser sends to us that is called Log Data. This Log Data may include information such as your computer's Internet Protocol (“IP”) address, browser version, pages of our Service that you visit, the time and date of your visit, the time spent on those pages, and other statistics.
+We may also collect information directly from you when you contact us.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### How we store personal information
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+We value your trust in providing us your personal information, thus we are striving to use commercially acceptable means of protecting it. We will take all reasonable steps to protect your personal information from misuse, loss and unauthorised access, modification or disclosure. Your personal information will always be stored in a secure online environment. All service providers we contract with are required to have a Privacy Policy. However, please note that there are risks associated with providing information to us through electronic means, example, via the internet or email and the information may be insecure in transit, particularly where no encryption is used such as through email. We therefore cannot guarantee the security of any ‘personal information’ that you provide to us over the internet and via email and you do so at your own risk.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RobertaBRC/privacy-policy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Service Providers
 
-### Support or Contact
+We may employ third-party companies and individuals due to the following reasons:
+- To facilitate our service
+- To perform service-related services; or
+- To assist us in analysing how our service is used
+We want to inform our Service users that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+We may disclose personal information to government bodies including courts and tribunals or a Court, Tribunal or law enforcement agency in response to a request or subpoena or to the Australian Taxation Office.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+### Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
+
+
+### Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
+Email: info@dataminds.com.au
+
